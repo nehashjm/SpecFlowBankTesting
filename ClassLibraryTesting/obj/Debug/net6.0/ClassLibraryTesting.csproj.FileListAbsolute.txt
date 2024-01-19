@@ -1,0 +1,11 @@
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\bin\Debug\net6.0\ClassLibraryTesting.deps.json
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\bin\Debug\net6.0\ClassLibraryTesting.dll
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\bin\Debug\net6.0\ClassLibraryTesting.pdb
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.AssemblyInfoInputs.cache
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.AssemblyInfo.cs
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.dll
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\refint\ClassLibraryTesting.dll
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ClassLibraryTesting.pdb
+D:\mphasis Simplilearn\Phase3\Projects\ClassLibraryTesting\ClassLibraryTesting\obj\Debug\net6.0\ref\ClassLibraryTesting.dll
